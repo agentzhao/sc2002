@@ -1,0 +1,2 @@
+javac -d . tut1/example.java
+java tut1/example

@@ -1,0 +1,4 @@
+**build/
+.metadata/
+jdt.ls-java-project/
+*.class
